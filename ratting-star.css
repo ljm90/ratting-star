@@ -1,0 +1,46 @@
+.mian{
+	overflow:auto;
+	cursor:pointer;
+}
+.kuai{
+	width:20px;
+	height:20px;
+	background:url("8e438353ad670378cc955e2c803aeb36.jpg");
+	background-size:cover;
+	float:left;
+	margin-left:15px;
+}
+.mian-1{
+	overflow:auto;
+	cursor:pointer;
+}
+.kuai-1{
+	margin-top:10px;
+	width:20px;
+	height:10px;
+	float:left;
+	margin-left:15px;
+	text-align:center;
+	display:none;
+}
+.mian-2{
+	overflow:auto;
+	cursor:pointer;
+}
+.kuai-2{
+	margin-top:10px;
+	width:20px;
+	height:5px;
+	float:left;
+	margin-left:15px;
+}
+.on{
+	background:url("6a9c8807f086e30d68c39cdba2b1d5a6.jpg");
+	background-size:cover;
+}
+.on-1{
+	color:#119da2;
+}
+.on-2{
+	background:#119da2;
+}
